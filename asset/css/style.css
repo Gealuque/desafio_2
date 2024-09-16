@@ -1,0 +1,168 @@
+body{
+    background-image: url("../img/fondo.jpeg");
+    background-size: cover;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.title{
+    margin: 2px 2px 10px 2px;
+    padding:40px 40px 40px 40px;
+    text-align: right;
+    font-size: 1.5em;
+    color:rgb(255, 255, 255);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: oblique;
+    background-image: url("../img/boyheader.jpeg");
+    background-size: cover;
+    object-fit: cover;
+    background-position:center;
+    background-repeat: no-repeat;
+}
+ .title h1{
+    margin-top: 0px;
+ }
+ .special1{
+    font-size: 2em;
+    font-style: italic;
+    color: rgba(247, 239, 239, 0.78);
+    text-shadow: 0cqh;
+    text-align:center;
+    justify-content: center;
+ }
+ .special2{
+    font-size: 1em;
+    font-style: italic;
+    color: rgba(242, 230, 230, 0.75);
+    text-emphasis-color:unset;
+    text-align:left;
+    justify-content:left;
+ }
+ .cell{
+    width: 5%;
+    height:auto;
+ }
+.parrafo{
+    margin-top: -2%;
+    margin-right: 15px;
+    text-align: right;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 0.5em;
+    font-style:italic;
+    color:rgb(244, 244, 244);
+}
+.contenedor1{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+}
+
+/*Tercer Producto*/
+.card{
+    box-shadow: rgba(249, 226, 226, 0.75) 7px 5px 10px;
+    border-radius: 15px;
+}
+
+/*Primer Producto*/
+.prod1{
+    margin-top: 50px;
+    margin-bottom: 100px;
+    color: aliceblue;
+}
+.imge1{
+    float:right;
+    margin: 0 30px;
+    margin-top: 20px;
+    width: 500px;
+    border-radius: 15px;
+}
+/*Segundo Producto*/
+.prod2{
+    margin-left: 100px;
+    margin-top: 50px;
+    color: aliceblue;
+}
+.imge2{
+    float: left;
+    margin-left: 30px;
+    margin-top: 20px;;
+    height: 330px;
+    width: 500px;
+    border-radius: 15px;
+}
+/*Tercer Producto*/
+.prod3{
+    margin-top: 100px;
+    color: aliceblue;
+}
+.imge3{
+    float:right;
+    margin: 0 30px;
+    margin-top:20px;
+    width: 500px;
+    border-radius: 15px;
+}
+/*Cuarto Producto*/
+.prod4{
+    margin-left: 100px;
+    text-align:justify;
+    color: aliceblue;
+}
+.imge4{
+    float: left;
+    margin-left: 30px;
+    margin-top: 20px;;
+    width: 500px;
+    border-radius: 15px;
+}
+/*Footer*/
+.pie{
+        margin-top: 200px;
+        margin-bottom: 3px;
+        height: 2em;
+        line-height: 2em;
+        background-color: rgb(9, 9, 9); color: white;
+        text-align: center;
+        font-weight: 800;
+}
+
+
+/*Planes*/
+
+.title2{
+    margin: 20px 20px 20px 20px;
+    padding: 20px 20px 20px 20px;
+    color: rgb(38, 45, 45);
+    text-align: center;
+    background-color: black;
+    font-size: 1.5em;
+    color:rgb(255, 255, 255);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: oblique;
+    background-color: black;
+}
+.tab_con{
+    border: 2px;
+    border-color: aliceblue;
+    background-image: url(../img/forrent.jpg);
+    background-size: cover;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: 800px;
+    height: 400px;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+.tab_con1{
+    font-size: 2em;
+    color: rgb(1, 0, 0);
+    -webkit-text-stroke-width: 0.5px;
+    -webkit-text-stroke-color: azure;
+    text-align:center;
+    justify-content: center;
+
+}
+.text{
+    color: azure;
+}
+.text1{
+    text-align: center;
+    color: azure;
+}
